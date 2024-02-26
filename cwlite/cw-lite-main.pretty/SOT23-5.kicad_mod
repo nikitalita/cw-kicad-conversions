@@ -1,0 +1,81 @@
+(footprint "SOT23-5" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "<b>Small Outline Transistor</b>")
+  (fp_text reference "REF**" (at -0.889 -2.159) (layer "F.SilkS")
+      (effects (font (size 0.373888 0.373888) (thickness 0.032512)) (justify left bottom))
+    (tstamp 9ee7b9e7-08e2-438f-83c0-55992d5533c8)
+  )
+  (fp_text value "SOT23-5" (at -0.9525 0.1905) (layer "F.Fab")
+      (effects (font (size 0.373888 0.373888) (thickness 0.032512)) (justify left bottom))
+    (tstamp 3720d172-fa62-4422-b45f-579e7642ec11)
+  )
+  (fp_line (start -1.4224 0.4294) (end -1.4224 -0.4294)
+    (stroke (width 0.2032) (type solid)) (layer "F.SilkS") (tstamp 4b9ee568-2090-4e08-a07b-c9f98c03b3c2))
+  (fp_line (start -0.2684 -0.8104) (end 0.2684 -0.8104)
+    (stroke (width 0.2032) (type solid)) (layer "F.SilkS") (tstamp e487afb7-7314-4b6a-b889-b908244dc6a5))
+  (fp_line (start 1.4224 -0.4294) (end 1.4224 0.4294)
+    (stroke (width 0.2032) (type solid)) (layer "F.SilkS") (tstamp 574f72c7-1181-4f9f-9ce2-543c6fb6c1e1))
+  (fp_line (start -1.4 -0.8) (end -1.4 0.8)
+    (stroke (width 0.1524) (type solid)) (layer "F.Fab") (tstamp 7e7cfd4c-597a-4686-b5b3-71155941d146))
+  (fp_line (start -1.4 -0.8) (end 1.4 -0.8)
+    (stroke (width 0.1524) (type solid)) (layer "F.Fab") (tstamp 1d4d6eca-3701-43e2-a654-62f54f368a3d))
+  (fp_line (start 1.4 -0.8) (end 1.4 0.8)
+    (stroke (width 0.1524) (type solid)) (layer "F.Fab") (tstamp 0b82ce9c-241d-40c5-ba22-d8cc04b534b8))
+  (fp_line (start 1.4 0.8) (end -1.4 0.8)
+    (stroke (width 0.1524) (type solid)) (layer "F.Fab") (tstamp e95f031b-53f9-4a3d-97a9-53b763e94df2))
+  (fp_poly
+    (pts
+      (xy -1.2 -0.85)
+      (xy -0.7 -0.85)
+      (xy -0.7 -1.5)
+      (xy -1.2 -1.5)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 687e9932-de82-4768-95f7-26d9746e5716))
+  (fp_poly
+    (pts
+      (xy -1.2 1.5)
+      (xy -0.7 1.5)
+      (xy -0.7 0.85)
+      (xy -1.2 0.85)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 5294a1e0-7d3b-4a1b-83c4-5d1b4b44c30f))
+  (fp_poly
+    (pts
+      (xy -0.25 1.5)
+      (xy 0.25 1.5)
+      (xy 0.25 0.85)
+      (xy -0.25 0.85)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp a4ce6b4f-859d-4fa0-902c-a297ccffc12f))
+  (fp_poly
+    (pts
+      (xy 0.7 -0.85)
+      (xy 1.2 -0.85)
+      (xy 1.2 -1.5)
+      (xy 0.7 -1.5)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 9fd32690-c446-4ffb-a38c-55d6e2f8318f))
+  (fp_poly
+    (pts
+      (xy 0.7 1.5)
+      (xy 1.2 1.5)
+      (xy 1.2 0.85)
+      (xy 0.7 0.85)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 11edc1d5-ddba-428b-bc10-5db3d26c8de0))
+  (pad "1" smd rect (at -0.95 1.3001) (size 0.55 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp b134d82a-ace9-44c1-a0b9-5f363eec7a12))
+  (pad "2" smd rect (at 0 1.3001) (size 0.55 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 98fdd53b-a3a7-4cfa-ae9f-1a1d9f24425a))
+  (pad "3" smd rect (at 0.95 1.3001) (size 0.55 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 82d09410-6e94-4e98-aced-aefb16973401))
+  (pad "4" smd rect (at 0.95 -1.3001) (size 0.55 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp eae7a64d-46e9-4ae7-9e71-ed64c76d233e))
+  (pad "5" smd rect (at -0.95 -1.3001) (size 0.55 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 7d5f0caf-9f01-47b3-8644-f01125d6c7d7))
+)

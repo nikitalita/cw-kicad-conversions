@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "CW308T_to_cardedge-altium-import")(type "KiCad")(uri "${KIPRJMOD}/CW308T_to_cardedge-altium-import.kicad_sym")(options "")(descr ""))
+)

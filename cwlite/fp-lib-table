@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "cw-lite-main")(type "KiCad")(uri "$(KIPRJMOD)/cw-lite-main.pretty")(options "")(descr ""))
+)

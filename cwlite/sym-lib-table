@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "cw-lite-main-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/cw-lite-main-eagle-import.kicad_sym")(options "")(descr ""))
+)

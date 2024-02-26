@@ -1,0 +1,167 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 4a45e2e3-4647-4c33-91f8-383888ccc671)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 127 76.2) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 052eff39-4990-4026-a359-9b7af65cb9a8)
+    (property "Sheetname" "cw-lite-main_8" (at 127 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cw-lite-main_8.kicad_sch" (at 127 80.5946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "cw-lite-main"
+        (path "/4a45e2e3-4647-4c33-91f8-383888ccc671" (page "8"))
+      )
+    )
+  )
+
+  (sheet (at 177.8 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 060071f0-dee1-4d3e-9b7b-58030c221e2b)
+    (property "Sheetname" "cw-lite-main_4" (at 177.8 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cw-lite-main_4.kicad_sch" (at 177.8 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "cw-lite-main"
+        (path "/4a45e2e3-4647-4c33-91f8-383888ccc671" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3613b1be-289d-4227-9804-2cabf8a15d29)
+    (property "Sheetname" "cw-lite-main_1" (at 25.4 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cw-lite-main_1.kicad_sch" (at 25.4 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "cw-lite-main"
+        (path "/4a45e2e3-4647-4c33-91f8-383888ccc671" (page "1"))
+      )
+    )
+  )
+
+  (sheet (at 127 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 98809a08-0877-4cc8-bc72-865e7f99c8e7)
+    (property "Sheetname" "cw-lite-main_3" (at 127 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cw-lite-main_3.kicad_sch" (at 127 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "cw-lite-main"
+        (path "/4a45e2e3-4647-4c33-91f8-383888ccc671" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 76.2) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a2337f51-11ba-4019-9656-df2d4d347a11)
+    (property "Sheetname" "cw-lite-main_6" (at 25.4 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cw-lite-main_6.kicad_sch" (at 25.4 80.5946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "cw-lite-main"
+        (path "/4a45e2e3-4647-4c33-91f8-383888ccc671" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 76.2 76.2) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid ba71a016-4765-4b7d-8100-f16a4ee2d466)
+    (property "Sheetname" "cw-lite-main_7" (at 76.2 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cw-lite-main_7.kicad_sch" (at 76.2 80.5946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "cw-lite-main"
+        (path "/4a45e2e3-4647-4c33-91f8-383888ccc671" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 76.2 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c2313a3a-d174-4083-9003-f814d724310f)
+    (property "Sheetname" "cw-lite-main_2" (at 76.2 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cw-lite-main_2.kicad_sch" (at 76.2 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "cw-lite-main"
+        (path "/4a45e2e3-4647-4c33-91f8-383888ccc671" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 228.6 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e5b1ba94-c930-4704-9ed0-14daef5276d8)
+    (property "Sheetname" "cw-lite-main_5" (at 228.6 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cw-lite-main_5.kicad_sch" (at 228.6 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "cw-lite-main"
+        (path "/4a45e2e3-4647-4c33-91f8-383888ccc671" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 177.8 76.2) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f707145c-66d1-4e16-b0c6-f374f08905a7)
+    (property "Sheetname" "cw-lite-main_9" (at 177.8 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cw-lite-main_9.kicad_sch" (at 177.8 80.5946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "cw-lite-main"
+        (path "/4a45e2e3-4647-4c33-91f8-383888ccc671" (page "9"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

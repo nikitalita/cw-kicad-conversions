@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 4dd38eb6-b465-45ef-b1d2-f7077c5b7206)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 57.15 44.45) (size 47.625 32.385) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7565d5ca-8467-4218-967b-7acdd00edc46)
+    (property "Sheetname" "CPU" (at 57.15 43.7384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "CW308T_87C51_CPU.kicad_sch" (at 57.15 77.4196 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "CW308T_87C51"
+        (path "/4dd38eb6-b465-45ef-b1d2-f7077c5b7206" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 142.875 43.815) (size 47.625 29.845) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid bbffd9f0-134f-46ee-8f6a-38d4007fee46)
+    (property "Sheetname" "CWCONN" (at 142.875 43.1034 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "CW308T_87C51_CWCONN.kicad_sch" (at 142.875 74.2446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "CW308T_87C51"
+        (path "/4dd38eb6-b465-45ef-b1d2-f7077c5b7206" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

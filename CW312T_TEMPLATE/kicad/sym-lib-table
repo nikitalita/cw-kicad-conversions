@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "cw312_template_cardedge-altium-import")(type "KiCad")(uri "${KIPRJMOD}/cw312_template_cardedge-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "cw312_template_microcontroller-altium-import")(type "KiCad")(uri "${KIPRJMOD}/cw312_template_microcontroller-altium-import.kicad_sym")(options "")(descr ""))
+)

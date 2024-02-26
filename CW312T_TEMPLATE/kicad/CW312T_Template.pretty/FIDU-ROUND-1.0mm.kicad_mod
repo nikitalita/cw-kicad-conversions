@@ -1,0 +1,13 @@
+(footprint "FIDU-ROUND-1.0mm" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "FID2" (at -1.34759 -2.07412 unlocked) (layer "F.SilkS")
+      (effects (font (size 0.762 0.762) (thickness 0.254)) (justify left bottom))
+    (tstamp 45aacdde-7755-4d48-931f-3a6d0fec7588)
+  )
+  (fp_text value "FIDU-ROUND-1.0MM" (at -1.0795 3.6195 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
+    (tstamp c3e10304-8e0c-4f03-9114-5a18581a969d)
+  )
+  (pad "M1" smd circle (at 0 0 270) (size 1.27 1.27) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.7) (solder_paste_margin -2) (tstamp d2bbcfc6-262f-4977-ae30-8cb105b3cd5a))
+)

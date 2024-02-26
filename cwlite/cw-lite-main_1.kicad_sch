@@ -1,0 +1,284 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 55278eea-a118-4d7b-aa28-9808816d8e38)
+
+  (paper "User" 297.002 223.571)
+
+  (lib_symbols
+    (symbol "cw-lite-main-eagle-import:LETTER_L" (in_bom yes) (on_board yes)
+      (property "Reference" "#FRAME" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Value" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Footprint" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_locked" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (symbol "LETTER_L_1_0"
+        (polyline
+          (pts
+            (xy 0 0)
+            (xy 248.92 0)
+            (xy 248.92 185.42)
+            (xy 0 185.42)
+            (xy 0 0)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+      )
+      (symbol "LETTER_L_2_0"
+        (polyline
+          (pts
+            (xy 0 0)
+            (xy 0 5.08)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 0)
+            (xy 71.12 0)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 5.08)
+            (xy 0 15.24)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 5.08)
+            (xy 71.12 5.08)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 15.24)
+            (xy 0 22.86)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 22.86)
+            (xy 0 35.56)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 22.86)
+            (xy 101.6 22.86)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 71.12 0)
+            (xy 101.6 0)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 71.12 5.08)
+            (xy 71.12 0)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 71.12 5.08)
+            (xy 87.63 5.08)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 87.63 5.08)
+            (xy 101.6 5.08)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 87.63 15.24)
+            (xy 0 15.24)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 87.63 15.24)
+            (xy 87.63 5.08)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 101.6 5.08)
+            (xy 101.6 0)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 101.6 15.24)
+            (xy 87.63 15.24)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 101.6 15.24)
+            (xy 101.6 5.08)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 101.6 22.86)
+            (xy 101.6 15.24)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 101.6 35.56)
+            (xy 0 35.56)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 101.6 35.56)
+            (xy 101.6 22.86)
+          )
+          (stroke (width 0.1016) (type solid))
+          (fill (type none))
+        )
+        (text "${#}/${##}" (at 86.36 1.27 0)
+          (effects (font (size 2.54 2.159)) (justify left bottom))
+        )
+        (text "${CURRENT_DATE}" (at 12.7 1.27 0)
+          (effects (font (size 2.54 2.159)) (justify left bottom))
+        )
+        (text "${PROJECTNAME}" (at 17.78 19.05 0)
+          (effects (font (size 2.54 2.159)) (justify left bottom))
+        )
+        (text "Date:" (at 1.27 1.27 0)
+          (effects (font (size 2.54 2.159)) (justify left bottom))
+        )
+        (text "Document Number:" (at 1.27 11.43 0)
+          (effects (font (size 2.54 2.159)) (justify left bottom))
+        )
+        (text "REV:" (at 88.9 11.43 0)
+          (effects (font (size 2.54 2.159)) (justify left bottom))
+        )
+        (text "Sheet:" (at 72.39 1.27 0)
+          (effects (font (size 2.54 2.159)) (justify left bottom))
+        )
+        (text "TITLE:" (at 1.27 19.05 0)
+          (effects (font (size 2.54 2.159)) (justify left bottom))
+        )
+      )
+    )
+  )
+
+
+  (text "ChipWhisperer-Lite" (at 86.36 33.02 0)
+    (effects (font (size 6.4516 5.4838)) (justify left bottom))
+    (uuid 1f244b77-2ee8-4057-ab33-a5fc923d6b04)
+  )
+  (text "-04: Small PCB fixes - add ground pour, fix pins\nsuch they don't appear shorted. March 30/2015.\n-03: Addition of low-power glitch module, split\ntarget board onto own sheet. Jan 13/2015.\n-02: Fixed routing errors, addition of switch for\ntarget power supply voltage.\n-01: Initial release, prototype."
+    (at 40.64 109.22 0)
+    (effects (font (size 2.54 2.159)) (justify left bottom))
+    (uuid 6d00d1a7-5a68-49dd-a614-dac8a765f041)
+  )
+  (text ">REV" (at 259.08 195.58 0)
+    (effects (font (size 2.54 2.159)) (justify left bottom))
+    (uuid 9cc8b4e3-cc5d-44c9-8059-e66344223ac2)
+  )
+  (text "Revision Information" (at 27.94 55.88 0)
+    (effects (font (size 3.81 3.2385)) (justify left bottom))
+    (uuid c830f7ea-7fef-42e5-8056-d6b6a52c7e19)
+  )
+
+  (symbol (lib_id "cw-lite-main-eagle-import:LETTER_L") (at 20.32 203.2 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 7ba6cf65-10be-4c50-a504-1f5853e96413)
+    (property "Reference" "#FRAME9" (at 20.32 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "LETTER_L" (at 20.32 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "" (at 20.32 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 20.32 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "cw-lite-main"
+        (path "/4a45e2e3-4647-4c33-91f8-383888ccc671/3613b1be-289d-4227-9804-2cabf8a15d29"
+          (reference "#FRAME9") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "cw-lite-main-eagle-import:LETTER_L") (at 167.64 203.2 0) (unit 2)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid e110ae79-9a2f-4919-b374-c8cf1da9113b)
+    (property "Reference" "#FRAME9" (at 167.64 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "LETTER_L" (at 167.64 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "" (at 167.64 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 167.64 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "cw-lite-main"
+        (path "/4a45e2e3-4647-4c33-91f8-383888ccc671/3613b1be-289d-4227-9804-2cabf8a15d29"
+          (reference "#FRAME9") (unit 2)
+        )
+      )
+    )
+  )
+)

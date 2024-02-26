@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CW308T_87C51_CPU-altium-import")(type "KiCad")(uri "C:/Users/Nikita/eComp/PowerProbe/cw-kicad-conversions/CW308T_87C51/kicad/CW308T_87C51_CPU-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "CW308T_87C51_CWCONN-altium-import")(type "KiCad")(uri "C:/Users/Nikita/eComp/PowerProbe/cw-kicad-conversions/CW308T_87C51/kicad/CW308T_87C51_CWCONN-altium-import.kicad_sym")(options "")(descr ""))
+)
